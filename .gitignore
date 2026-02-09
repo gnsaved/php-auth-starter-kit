@@ -1,0 +1,9 @@
+/vendor/
+/logs/*.log
+/storage/sessions/*
+!storage/sessions/.gitkeep
+composer.lock
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
